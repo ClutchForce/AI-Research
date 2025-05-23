@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for your facial emotion recognition project. It reflects the structure, models, methods, and findings documented in your final report and code:
-
----
-
 # Facial Emotion Recognition Using CNNs, Transfer Learning, and Attention Mechanisms
 
 ## 📌 Project Overview
