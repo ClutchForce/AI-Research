@@ -6,6 +6,12 @@ This project explores the task of **Facial Emotion Recognition (FER)** using the
 
 ---
 
+## 📄 Research Paper
+
+[📘 Read: Enhancing Facial Emotion Recognition Using Deep Learning (PDF)](https://github.com/ClutchForce/AI-Research/blob/main/Enhancing%20Facial%20Emotion%20Recognition.pdf)
+
+---
+
 ## 🔍 Motivation
 
 Facial expressions are essential non-verbal signals used in human communication. Automatically recognizing these expressions from images is a challenging task due to:
